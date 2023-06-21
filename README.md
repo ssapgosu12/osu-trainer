@@ -1,3 +1,6 @@
+it does not show bpm and HpArOdCs settings as in diff name
+
+
 # osu-trainer
 A program that allows you to modify the difficulty of a beatmap **very quickly and easily**.
 
